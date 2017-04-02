@@ -1,0 +1,130 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT loginjasahotel (resepsionis,OfficeBoy,Manager,satpam,Pemesan)>
+<!ATTLIST loginjasahotel
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT resepsionis (namaresepsionis,tandapengenal,nik,alamat,jeniskelamin,
+                       agama,pekerjaan,tempatlahir,kewarganegaraan,tahunkerja)>
+<!ATTLIST resepsionis
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT OfficeBoy (namaOB,alamat,Kontak,jeniskelamin,agama,pekerjaan,
+                     tempatlahir,email,tahunkerja,jabatan)>
+<!ATTLIST OfficeBoy
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT Manager (namaManager,asal,Kontak,jeniskelamin,agama,pekerjaan,
+                   tempatlahir,email,hobbi,jabatan)>
+<!ATTLIST Manager
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT satpam (namasatpam,alamat,kontak,jeniskelamin,agama,pekerjaan,
+                  tempatlahir,email,umur,jabatan)>
+<!ATTLIST satpam
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT Pemesan (namapemesan,alamat,nohp,jeniskelamin,agama,Status,
+                   tempatlahir,email,kegiatan,nim)>
+<!ATTLIST Pemesan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT namaresepsionis (#PCDATA)>
+<!ATTLIST namaresepsionis
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tandapengenal (#PCDATA)>
+<!ATTLIST tandapengenal
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nik (#PCDATA)>
+<!ATTLIST nik
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kewarganegaraan (#PCDATA)>
+<!ATTLIST kewarganegaraan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT namaOB (#PCDATA)>
+<!ATTLIST namaOB
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT namaManager (#PCDATA)>
+<!ATTLIST namaManager
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT asal (#PCDATA)>
+<!ATTLIST asal
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT hobbi (#PCDATA)>
+<!ATTLIST hobbi
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT namasatpam (#PCDATA)>
+<!ATTLIST namasatpam
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kontak (#PCDATA)>
+<!ATTLIST kontak
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT umur (#PCDATA)>
+<!ATTLIST umur
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT namapemesan (#PCDATA)>
+<!ATTLIST namapemesan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nohp (#PCDATA)>
+<!ATTLIST nohp
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT Status (#PCDATA)>
+<!ATTLIST Status
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kegiatan (#PCDATA)>
+<!ATTLIST kegiatan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nim (#PCDATA)>
+<!ATTLIST nim
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT alamat (#PCDATA)>
+<!ATTLIST alamat
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jeniskelamin (#PCDATA)>
+<!ATTLIST jeniskelamin
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT agama (#PCDATA)>
+<!ATTLIST agama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT pekerjaan (#PCDATA)>
+<!ATTLIST pekerjaan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tempatlahir (#PCDATA)>
+<!ATTLIST tempatlahir
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tahunkerja (#PCDATA)>
+<!ATTLIST tahunkerja
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT Kontak (#PCDATA)>
+<!ATTLIST Kontak
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jabatan (#PCDATA)>
+<!ATTLIST jabatan
+    xmlns CDATA #FIXED ''>
