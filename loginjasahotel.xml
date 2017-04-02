@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE loginjasahotel SYSTEM "loginjasahotel.dtd">
+<loginjasahotel>
+	<resepsionis>
+		<namaresepsionis>Supratman</namaresepsionis>
+		<tandapengenal>Nama Resepsionis</tandapengenal>
+		<nik>1154125</nik>
+		<alamat>Sarijadi</alamat>
+		<jeniskelamin>Laki-Laki</jeniskelamin>
+		<agama>Islam</agama>
+		<pekerjaan>resepsionis hotel</pekerjaan>
+		<tempatlahir>bandung</tempatlahir>
+		<kewarganegaraan>Indonesia</kewarganegaraan>
+		<tahunkerja>2012</tahunkerja>
+	</resepsionis>
+	
+	<OfficeBoy>
+		<namaOB>Katimin</namaOB>
+		<alamat>Soekarno Hatta</alamat>
+		<Kontak>081250041000</Kontak>
+		<jeniskelamin>Laki-Laki</jeniskelamin>
+		<agama>Islam</agama>
+		<pekerjaan>Office Boy Jasa hotel</pekerjaan>
+		<tempatlahir>Soreang</tempatlahir>
+		<email>Katimin31@gmail.com</email>
+		<tahunkerja>2009</tahunkerja>
+		<jabatan>Kepala Office Boy</jabatan>
+	</OfficeBoy>
+	
+	<Manager>
+		<namaManager>Yoshi Ricowandi Nababan</namaManager>
+		<asal>Medan</asal>
+		<Kontak>082165422560</Kontak>
+		<jeniskelamin>laki-laki</jeniskelamin>
+		<agama>Kristen</agama>
+		<pekerjaan>Manager Jasa Hotel</pekerjaan>
+		<tempatlahir>Tarutung</tempatlahir>
+		<email>Yoshinababan.33@gmail.com</email>
+		<hobbi>Futsal dan Sepakbola </hobbi>
+		<jabatan>Manager</jabatan>
+	</Manager>
+	
+	<satpam>
+		<namasatpam>Raya</namasatpam>
+		<alamat>Ciwaruga</alamat>
+		<kontak>082212112121</kontak>
+		<jeniskelamin>Laki-Laki</jeniskelamin>
+		<agama>Hindu</agama>
+		<pekerjaan>satpam</pekerjaan>
+		<tempatlahir>Surabaya</tempatlahir>
+		<email>rayasemesta@gmail.com</email>
+		<umur> 29 tahun </umur>
+		<jabatan>satpam</jabatan>
+	</satpam>
+	
+	<Pemesan>
+		<namapemesan>jakirik</namapemesan>
+		<alamat>Sipiongot</alamat>
+		<nohp>082165422670</nohp>
+		<jeniskelamin>Laki-Laki</jeniskelamin>
+		<agama>Budha</agama>
+		<Status>mahasiswa</Status>
+		<tempatlahir>bandung</tempatlahir>
+		<email>jakiriksi71@gmail.com</email>
+		<kegiatan>Bermain Badminton</kegiatan>
+		<nim>1154125</nim>
+	</Pemesan>
+</loginjasahotel>
